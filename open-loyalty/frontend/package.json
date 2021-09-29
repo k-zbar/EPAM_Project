@@ -88,7 +88,7 @@
     "foundation-sites": "6.3.1",
     "jquery": "3.0.0",
     "jquery-datetimepicker": "^2.5.4",
-    "jsoneditor": "^5.5.11",
+    "jsoneditor": "^9.5.6",
     "lodash": "4.0.0",
     "microplugin": "0.0.3",
     "moment": "^2.14.1",
