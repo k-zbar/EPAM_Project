@@ -99,7 +99,7 @@
     "ng-table": "^1.0.0",
     "pickadate": "^3.5.6",
     "restangular": "^1.5.2",
-    "select2": "^4.0.3",
+    "select2": "^4.0.6",
     "selectize": "^0.12.3",
     "sifter": "^0.5.1",
     "simplemde": "^1.11.2",
